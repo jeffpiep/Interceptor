@@ -8,7 +8,7 @@
 'POKE 106,PM
 GRAPHICS 8
 GRAPHICS 7
-PM=PEEK(106)-32: rem locate 2K below the screen memory
+PM=PEEK(106)-24: rem locate 2K below the screen memory
 POKE 54279,PM
 PM=PM*$100
 'DP.PM,0:M.PM,PM+1,1023: REM CLEAR OUT PM MEMORY
