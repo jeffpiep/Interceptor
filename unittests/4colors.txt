@@ -1,0 +1,16 @@
+gr.7
+c.1
+plot0,0
+drawto159,0
+c.2
+plot0,2
+drawto159,2
+
+c.3
+plot0,4
+drawto159,4
+
+c.5
+plot0,6
+drawto159,6
+

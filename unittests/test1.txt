@@ -1,0 +1,17 @@
+GRAPHICS 7
+SE.4,9,5:rem set background color to blue (like mode 0)
+se.0,0,0:rem black lines (maybe problem with gr.2 for text)
+se.1,0,15:rem white lines (used three to get away from registers 1 & 2 - may need to adjust)
+'se.2,9,1:rem make bottom darker like real game
+c.1: rem draw black lines for cockpit 
+PLOT 33,0:DRAWTO 55,13:DRAWTO 104,13:DRAWTO 126,0
+PLOT 12,80:DRAWTO 26,48:DRAWTO 55,13
+PLOT 147,80:DRAWTO 133,48:DRAWTO 104,13
+c.2: rem draw white lines
+PLOT 80,80:DRAWTO 80,52
+CIRCLE 80,46,6
+'CIRCLE 79,46,4 don't make two circles - artistic license
+
+DL=DPEEK(560):rem find display list start
+
+
