@@ -1,0 +1,3 @@
+Download the ATR file and play on your favorite 800XL emulator (e.g., Altirra). The game will autorun.
+
+Interceptor requires one joystick to play. Manuever the enemy planes into your target and press fire. You have 120 seconds to score as many hits as possible.
