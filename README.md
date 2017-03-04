@@ -6,3 +6,6 @@ An Atari TurboBASIC XL entry to the [2017 10-Liner Game Competition](http://gkan
 See my [writeup](http://jeffpiepmeier.blogspot.com/2017/03/interceptor-another-10-liner-basic-game.html) and [video](https://youtu.be/56EsfvCUyiw) explanation.
 
 Interceptor requires one joystick to play. Manuever the enemy planes into your target and press fire. You have 120 seconds to score as many hits as possible. 
+
+![](https://raw.githubusercontent.com/jeffpiep/Interceptor/master/screenshot.png)
+
